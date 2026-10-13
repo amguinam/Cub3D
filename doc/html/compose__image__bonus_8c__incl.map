@@ -1,0 +1,15 @@
+<map id="src/display/compose_image_bonus.c" name="src/display/compose_image_bonus.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="73,5,228,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="65,93,140,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,47,119,83,115,80,137,44"/>
+<area shape="rect" id="Node000003" href="$game_8h.html" title=" " alt="" coords="165,93,235,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,44,188,80,183,83,160,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,167,88,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,121,85,163,83,158,174,116"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="113,167,183,192"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="194,121,167,157,162,154,189,117"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="208,167,299,192"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="211,117,239,154,234,157,207,121"/>
+<area shape="rect" id="Node000007" href="$error__forward_8h.html" title=" " alt="" coords="323,167,445,192"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="231,116,342,159,340,164,229,121"/>
+</map>

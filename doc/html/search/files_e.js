@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['save_5fatoi_5frgb_2ec_0',['save_atoi_rgb.c',['../save__atoi__rgb_8c.html',1,'']]],
+  ['save_5fatoi_5frgb_2ed_1',['save_atoi_rgb.d',['../save__atoi__rgb_8d.html',1,'']]],
+  ['save_5finfo_5fwith_5ftype_2ec_2',['save_info_with_type.c',['../save__info__with__type_8c.html',1,'']]],
+  ['save_5finfo_5fwith_5ftype_2ed_3',['save_info_with_type.d',['../save__info__with__type_8d.html',1,'']]],
+  ['size_5fmax_5fline_2ec_4',['size_max_line.c',['../size__max__line_8c.html',1,'']]],
+  ['size_5fmax_5fline_2ed_5',['size_max_line.d',['../size__max__line_8d.html',1,'']]],
+  ['space_5fbetween_5ftype_5fand_5finfo_2ec_6',['space_between_type_and_info.c',['../space__between__type__and__info_8c.html',1,'']]],
+  ['space_5fbetween_5ftype_5fand_5finfo_2ed_7',['space_between_type_and_info.d',['../space__between__type__and__info_8d.html',1,'']]],
+  ['str_2eh_8',['str.h',['../str_8h.html',1,'']]],
+  ['str_5ffree_2ec_9',['str_free.c',['../str__free_8c.html',1,'']]],
+  ['str_5ffree_2ed_10',['str_free.d',['../str__free_8d.html',1,'']]],
+  ['str_5ffrom_5fcstr_2ec_11',['str_from_cstr.c',['../str__from__cstr_8c.html',1,'']]],
+  ['str_5ffrom_5fcstr_2ed_12',['str_from_cstr.d',['../str__from__cstr_8d.html',1,'']]],
+  ['string_5ffree_2ec_13',['string_free.c',['../string__free_8c.html',1,'']]],
+  ['string_5ffree_2ed_14',['string_free.d',['../string__free_8d.html',1,'']]],
+  ['string_5ffrom_5fcstr_2ec_15',['string_from_cstr.c',['../string__from__cstr_8c.html',1,'']]],
+  ['string_5ffrom_5fcstr_2ed_16',['string_from_cstr.d',['../string__from__cstr_8d.html',1,'']]],
+  ['string_5ffrom_5fstr_2ec_17',['string_from_str.c',['../string__from__str_8c.html',1,'']]],
+  ['string_5ffrom_5fstr_2ed_18',['string_from_str.d',['../string__from__str_8d.html',1,'']]],
+  ['string_5fnew_2ec_19',['string_new.c',['../string__new_8c.html',1,'']]],
+  ['string_5fnew_2ed_20',['string_new.d',['../string__new_8d.html',1,'']]],
+  ['string_5fpush_5fchar_2ec_21',['string_push_char.c',['../string__push__char_8c.html',1,'']]],
+  ['string_5fpush_5fchar_2ed_22',['string_push_char.d',['../string__push__char_8d.html',1,'']]],
+  ['string_5fpush_5fstr_2ec_23',['string_push_str.c',['../string__push__str_8c.html',1,'']]],
+  ['string_5fpush_5fstr_2ed_24',['string_push_str.d',['../string__push__str_8d.html',1,'']]]
+];

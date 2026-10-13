@@ -1,0 +1,17 @@
+<map id="src/hook/loop_hook.c" name="src/hook/loop_hook.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="46,5,205,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,72,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,33,65,72,62,68,110,29"/>
+<area shape="rect" id="Node000003" href="$mlx_8h.html" title=" " alt="" coords="96,79,155,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,31,128,65,123,65,123,31"/>
+<area shape="rect" id="Node000004" href="$game_8h.html" title=" " alt="" coords="179,79,250,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,29,191,68,188,72,138,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="19,152,101,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="191,106,99,149,97,144,189,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="126,152,197,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="208,106,180,143,176,140,204,103"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="221,152,312,177"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="225,103,252,139,248,142,221,106"/>
+<area shape="rect" id="Node000008" href="$error__forward_8h.html" title=" " alt="" coords="336,152,459,177"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="245,102,356,144,354,149,243,107"/>
+</map>

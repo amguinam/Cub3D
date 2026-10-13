@@ -1,0 +1,33 @@
+<map id="s_game" name="s_game">
+<area shape="rect" id="Node000001" title="This is the structure that manages the entire game." alt="" coords="416,545,489,571"/>
+<area shape="rect" id="Node000002" href="$structs__window.html" title="Window management." alt="" coords="19,448,105,473"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,483,98,503,121,519,177,534,259,545,416,553,416,559,259,550,176,540,118,524,94,507,76,486"/>
+<area shape="rect" id="Node000003" href="$structs__textures.html" title=" " alt="" coords="130,448,221,473"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,486,180,504,189,519,205,529,228,537,290,548,357,553,416,554,416,560,357,558,289,553,227,542,203,534,186,523,175,506,172,487"/>
+<area shape="rect" id="Node000004" href="$structs__dirs.html" title=" " alt="" coords="57,319,117,345"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,357,106,385,122,413,139,431,158,446,155,450,135,435,117,416,101,387,91,359"/>
+<area shape="rect" id="Node000005" href="$structs__dir.html" title="For each image direction created from the name of the record." alt="" coords="61,183,114,209"/>
+<area shape="poly" id="edge8_Node000003_Node000005" title=" " alt="" coords="66,220,42,246,21,277,9,312,9,329,14,346,39,381,72,409,109,431,143,446,140,450,107,435,69,414,35,385,9,348,4,329,4,311,16,275,38,242,62,216"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="90,222,90,319,85,319,85,222"/>
+<area shape="rect" id="Node000006" href="$structs__line.html" title="Line where the size is the end." alt="" coords="57,93,117,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="90,132,90,183,85,183,85,132"/>
+<area shape="rect" id="Node000007" href="$structs__image.html" title="This is the image displayed as each loop." alt="" coords="219,93,297,119"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="261,133,261,195,261,462,265,485,277,503,295,518,317,530,368,545,416,552,415,558,367,551,315,535,292,523,273,507,260,487,255,462,255,195,255,133"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="225,127,111,186,109,181,222,123"/>
+<area shape="rect" id="Node000008" href="$structs__vec.html" title="Vector in int." alt="" coords="269,5,327,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="289,44,266,94,261,92,285,42"/>
+<area shape="rect" id="Node000014" href="$structs__ray.html" title="Information for raycasting." alt="" coords="352,448,409,473"/>
+<area shape="poly" id="edge17_Node000014_Node000008" title=" " alt="" coords="317,41,332,70,339,104,339,333,343,366,353,398,376,447,371,449,348,400,338,368,334,333,334,105,327,72,312,43"/>
+<area shape="rect" id="Node000009" href="$structs__color.html" title="The color in int rgb and pixel." alt="" coords="141,319,209,345"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="178,359,178,448,173,448,173,359"/>
+<area shape="rect" id="Node000010" href="$structs__map.html" title="The map that is composed of cells." alt="" coords="541,448,607,473"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="550,484,500,523,469,547,466,543,496,519,547,480"/>
+<area shape="rect" id="Node000011" href="$structs__vec2__double.html" title="Vector in double." alt="" coords="408,319,527,345"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="481,357,485,370,488,422,481,472,460,546,455,545,476,471,482,422,479,371,476,358"/>
+<area shape="poly" id="edge16_Node000014_Node000011" title=" " alt="" coords="406,353,384,372,377,391,375,411,380,447,375,448,369,411,371,389,380,369,402,349"/>
+<area shape="rect" id="Node000012" href="$structs__mouse.html" title="Stuct to use for moving the mouse." alt="" coords="631,448,711,473"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="641,482,556,524,491,548,489,543,554,519,638,477"/>
+<area shape="rect" id="Node000013" href="$structs__input.html" title="Use for keys imput." alt="" coords="735,448,805,473"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="738,482,692,504,639,524,560,543,490,555,489,550,559,538,637,519,689,499,735,477"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="400,483,446,543,442,547,396,486"/>
+</map>

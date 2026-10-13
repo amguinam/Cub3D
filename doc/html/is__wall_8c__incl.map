@@ -1,0 +1,13 @@
+<map id="src/move/is_wall.c" name="src/move/is_wall.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,5,271,31"/>
+<area shape="rect" id="Node000002" href="$game_8h.html" title=" " alt="" coords="165,79,235,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,31,203,65,197,65,197,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,88,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="176,106,85,149,83,144,174,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="113,152,183,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="194,106,167,142,162,139,189,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="208,152,299,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="211,103,239,140,234,143,207,106"/>
+<area shape="rect" id="Node000006" href="$error__forward_8h.html" title=" " alt="" coords="323,152,445,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="231,102,342,144,340,149,229,107"/>
+</map>

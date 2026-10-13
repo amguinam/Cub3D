@@ -1,0 +1,15 @@
+<map id="src/load/init_sprite_summer_bonus.c" name="src/load/init_sprite_summer_bonus.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,5,319,45"/>
+<area shape="rect" id="Node000002" href="$game_8h.html" title=" " alt="" coords="165,93,235,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,47,217,83,212,80,234,44"/>
+<area shape="rect" id="Node000007" href="$bonus_8h.html" title=" " alt="" coords="259,93,333,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="262,44,284,80,279,83,257,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,88,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="176,121,85,163,83,158,174,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="113,167,183,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="194,121,167,157,162,154,189,117"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="208,167,299,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="211,117,239,154,234,157,207,121"/>
+<area shape="rect" id="Node000006" href="$error__forward_8h.html" title=" " alt="" coords="323,167,445,192"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="231,116,342,159,340,164,229,121"/>
+</map>

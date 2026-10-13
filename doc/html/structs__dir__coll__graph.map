@@ -1,0 +1,9 @@
+<map id="s_dir" name="s_dir">
+<area shape="rect" id="Node000001" title="For each image direction created from the name of the record." alt="" coords="45,181,98,207"/>
+<area shape="rect" id="Node000002" href="$structs__line.html" title="Line where the size is the end." alt="" coords="5,93,65,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,131,50,156,64,179,59,182,45,158,37,133"/>
+<area shape="rect" id="Node000003" href="$structs__image.html" title="This is the image displayed as each loop." alt="" coords="90,93,167,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,132,82,182,77,179,111,129"/>
+<area shape="rect" id="Node000004" href="$structs__vec.html" title="Vector in int." alt="" coords="99,5,158,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,45,131,93,126,93,126,45"/>
+</map>

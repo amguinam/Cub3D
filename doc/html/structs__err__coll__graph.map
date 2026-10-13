@@ -1,0 +1,8 @@
+<map id="s_err" name="s_err">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,93,120,119"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="135,96,143,99,147,106,138,115,120,117,120,111,136,110,141,106,139,103,133,101"/>
+<area shape="rect" id="Node000002" href="$structs__string.html" title=" " alt="" coords="5,5,79,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,44,52,68,62,81,75,91,72,95,59,85,48,71,40,45"/>
+<area shape="rect" id="Node000003" href="$structs__err__loc.html" title="A location in the source code." alt="" coords="103,5,183,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,44,116,71,102,94,98,92,112,68,127,41"/>
+</map>

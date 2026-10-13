@@ -1,0 +1,22 @@
+<map id="include/parsing.h" name="include/parsing.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,5,239,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,80,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,33,64,143,60,140,159,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="105,152,175,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,32,156,79,146,139,140,138,151,78,165,30"/>
+<area shape="rect" id="Node000004" href="$filesystem_8h.html" title=" " alt="" coords="166,79,269,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,30,205,66,200,69,177,32"/>
+<area shape="rect" id="Node000007" href="$game_8h.html" title=" " alt="" coords="293,79,363,104"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="198,28,291,70,289,75,196,33"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="190,106,85,149,83,144,188,102"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="207,106,165,144,161,141,203,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="347,152,429,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="246,102,349,144,347,149,244,106"/>
+<area shape="rect" id="Node000006" href="$error__forward_8h.html" title=" " alt="" coords="200,152,323,177"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="227,103,249,139,245,142,222,106"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="299,107,184,149,183,144,297,102"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="340,103,372,140,367,143,336,106"/>
+<area shape="poly" id="edge12_Node000007_Node000006" title=" " alt="" coords="319,106,283,144,280,140,315,103"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="453,152,544,177"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="356,102,459,144,457,149,354,106"/>
+</map>

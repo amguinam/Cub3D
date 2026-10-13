@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['saved_5fmode_0',['saved_mode',['../mlx__ext__randr_8c.html#acc3c5dd1437a7cb733037b1fa999d294',1,'mlx_ext_randr.c']]],
+  ['screen_1',['screen',['../structs__xvar.html#a16449e1686cf30a3b7c27bfe6e62b9f4',1,'s_xvar']]],
+  ['season_2',['season',['../structs__textures.html#a1fa90bbd4f0fa5c6e1102b3b4d597b35',1,'s_textures']]],
+  ['shm_3',['shm',['../structs__img.html#aee2ff6fe48990e8ca91c0140890de4c9',1,'s_img']]],
+  ['side_4',['side',['../structs__ray.html#a4f328ebc162467b017ee86c30c368ae6',1,'s_ray']]],
+  ['side_5fdistance_5',['side_distance',['../structs__ray.html#a1ce582c3ca3a8c74fc6ceb822f2daa58',1,'s_ray']]],
+  ['size_6',['size',['../structs__line.html#a850c1ef7ea8f1e34ff923fc6e7dce246',1,'s_line::size'],['../structs__lines.html#a2dfa26fd8a0d1be08479ea3c3b23435f',1,'s_lines::size']]],
+  ['size_5fline_7',['size_line',['../structs__image.html#a4d2d9d03813676b57fce7b1ad0bbe7ad',1,'s_image::size_line'],['../structs__img.html#a35d0d6f880d48b406d2a76adff3d0a33',1,'s_img::size_line']]],
+  ['sky_8',['sky',['../structs__type.html#aee8b6bd3e7f34d1b53db468d86ea76b5',1,'s_type::sky'],['../structs__textures.html#a8c2e2851e7b23bba16dc8781b2d47bec',1,'s_textures::sky']]],
+  ['sl1_9',['sl1',['../minilibx-linux_2test_2main_8c.html#acaf0be7d34ffacdd77f4d3c762b79dc5',1,'main.c']]],
+  ['sl2_10',['sl2',['../minilibx-linux_2test_2main_8c.html#a8e05ecd5b0448a9626afed6c17f61ab9',1,'main.c']]],
+  ['sl3_11',['sl3',['../minilibx-linux_2test_2main_8c.html#ae32c0202914018aa36220dfa52065365',1,'main.c']]],
+  ['sl4_12',['sl4',['../minilibx-linux_2test_2main_8c.html#af4e59f7b6ebd327e319ad191b819fa42',1,'main.c']]],
+  ['south_13',['south',['../structs__dirs.html#aba4675013853c56c5e73d2cfcdd6d07a',1,'s_dirs::south'],['../structs__type.html#af0953de483abaa95f6ec7e0db98a5e57',1,'s_type::south']]],
+  ['spec_14',['spec',['../structs__spec.html#ae60aa1280b94aac83719e839dd5af497',1,'s_spec']]],
+  ['step_15',['step',['../structs__ray.html#a1b10d177edd6045a7286ba2634986e4b',1,'s_ray']]],
+  ['str_16',['str',['../structs__lines.html#ac47cbe650aa14d816b4edf1e52fe1b9b',1,'s_lines']]]
+];
