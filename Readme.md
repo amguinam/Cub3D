@@ -33,6 +33,29 @@ doxygen config
 
 ## Instructions
 
+### Download
+
+```bash
+git clone https://github.com/amguinam/Cub3D.git
+```
+
+or
+
+```bash
+git clone git@github.com:amguinam/Cub3D.git
+```
+Download the mlx in project: <https://github.com/42paris/minilibx-linux>
+
+```bash
+git clone https://github.com/42paris/minilibx-linux.git
+```
+
+or
+
+```bash
+git@github.com:42paris/minilibx-linux.git
+```
+
 ### Requirements
 
 - A Linux system with `cc`, `make` and the X11 development libraries (`libx11`, `libext`).
@@ -40,6 +63,14 @@ doxygen config
 - The math library (`-lm`).
 
 ### Compilation
+
+Before compiling the project, you need to compile the miniLibX.
+
+```bash
+cd minilibx-linux
+make
+cd ..
+```
 
 ```bash
 make        # standard version
